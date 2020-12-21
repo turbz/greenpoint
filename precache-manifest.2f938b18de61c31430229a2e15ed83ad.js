@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b913cffae3e34e596c5b1bb2446a0d76",
+    "revision": "cb048e08d69ad8290f2409336c4305aa",
     "url": "/greenpoint/index.html"
   },
   {
-    "revision": "651f59a14f6fd15c284b",
-    "url": "/greenpoint/static/css/main.4f6720b1.chunk.css"
+    "revision": "d728738d86dda9c3377b",
+    "url": "/greenpoint/static/css/main.d7cf81a1.chunk.css"
   },
   {
     "revision": "3cdd41bc3dc9ea1d1914",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/greenpoint/static/js/2.817ac695.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "651f59a14f6fd15c284b",
-    "url": "/greenpoint/static/js/main.72a60472.chunk.js"
+    "revision": "d728738d86dda9c3377b",
+    "url": "/greenpoint/static/js/main.fed8716e.chunk.js"
   },
   {
     "revision": "821bdc4461154f017ce9",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/greenpoint/static/media/about_overlay.b630937a.webp"
   },
   {
-    "revision": "f1ec7a6f773a6503f62336fec072a973",
-    "url": "/greenpoint/static/media/about_part_img.f1ec7a6f.webp"
+    "revision": "cc3f311455298b8c30d731f96b612dfe",
+    "url": "/greenpoint/static/media/about_part_img.cc3f3114.webp"
   },
   {
     "revision": "791fe9f996018445e7ca6b89f4e71e3f",
@@ -40,32 +40,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/greenpoint/static/media/arrow-right-icon.ee48d685.svg"
   },
   {
-    "revision": "77b34d7c6bd09132ccace069e5b5a02f",
-    "url": "/greenpoint/static/media/avatar.77b34d7c.jpg"
+    "revision": "92d5c792490a5174b3acaff1adf53657",
+    "url": "/greenpoint/static/media/avatar.92d5c792.jpg"
   },
   {
-    "revision": "b3895a3b48dab1aa12fbbb3147e98041",
-    "url": "/greenpoint/static/media/banner_img.b3895a3b.webp"
+    "revision": "73ee390c881d39031f9c8c1d966c45c5",
+    "url": "/greenpoint/static/media/banner_img.73ee390c.webp"
   },
   {
-    "revision": "76c022998eb03ad74929cd51e8ae066c",
-    "url": "/greenpoint/static/media/blog_1.76c02299.webp"
+    "revision": "efe1b8bd12fe08b32b97f184bd5a7250",
+    "url": "/greenpoint/static/media/blog_1.efe1b8bd.webp"
   },
   {
-    "revision": "1230812f442f4c9a180f1cf513742037",
-    "url": "/greenpoint/static/media/blog_2.1230812f.webp"
+    "revision": "e2f0e860efebac93e9f17e5622c3472a",
+    "url": "/greenpoint/static/media/blog_2.e2f0e860.webp"
   },
   {
-    "revision": "09b98dbcfb8f214c16df42545256b75e",
-    "url": "/greenpoint/static/media/blog_3.09b98dbc.webp"
+    "revision": "afbf628f8d0fb07c87e0d493888053b8",
+    "url": "/greenpoint/static/media/blog_3.afbf628f.webp"
   },
   {
     "revision": "9ef1c9e7f734dbf598146106703376cc",
     "url": "/greenpoint/static/media/comment-icon.9ef1c9e7.svg"
   },
   {
-    "revision": "e0720d9952bfd06387b73fd5847ab2f0",
-    "url": "/greenpoint/static/media/experiance_img.e0720d99.webp"
+    "revision": "bf5aea60fcf379e522385b4126a887c1",
+    "url": "/greenpoint/static/media/experiance_img.bf5aea60.webp"
   },
   {
     "revision": "80130e19f1a735f6b5771981abda10f7",
@@ -108,15 +108,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/greenpoint/static/media/menu-icon.c512315d.svg"
   },
   {
-    "revision": "18e348a97af08abaf4da5a9b8f71e47d",
-    "url": "/greenpoint/static/media/project_1.18e348a9.webp"
+    "revision": "7c1fb40ac1392316787810962997b978",
+    "url": "/greenpoint/static/media/project_1.7c1fb40a.webp"
   },
   {
-    "revision": "bdbcf04dc452baecba619aa9563cdc1b",
-    "url": "/greenpoint/static/media/project_2.bdbcf04d.webp"
+    "revision": "4dcfffbb76869bfab1463699804e02a5",
+    "url": "/greenpoint/static/media/project_2.4dcfffbb.webp"
   },
   {
-    "revision": "5cd651f5a634799b987d152d5d9aebc9",
-    "url": "/greenpoint/static/media/project_3.5cd651f5.webp"
+    "revision": "52ca210b4fd8d9c2bbbf124bca113da7",
+    "url": "/greenpoint/static/media/project_3.52ca210b.webp"
   }
 ]);
