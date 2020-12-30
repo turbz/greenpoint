@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cb048e08d69ad8290f2409336c4305aa",
+    "revision": "293bb48f1fbe882b3a7d7e9d3822e296",
     "url": "/greenpoint/index.html"
   },
   {
-    "revision": "d728738d86dda9c3377b",
-    "url": "/greenpoint/static/css/main.d7cf81a1.chunk.css"
+    "revision": "a24f9b62b008f9aef262",
+    "url": "/greenpoint/static/css/2.2ce0d9b2.chunk.css"
   },
   {
-    "revision": "3cdd41bc3dc9ea1d1914",
-    "url": "/greenpoint/static/js/2.817ac695.chunk.js"
+    "revision": "54a03bd954866a8c1f9b",
+    "url": "/greenpoint/static/css/main.c22ddd90.chunk.css"
+  },
+  {
+    "revision": "a24f9b62b008f9aef262",
+    "url": "/greenpoint/static/js/2.3754711c.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/greenpoint/static/js/2.817ac695.chunk.js.LICENSE.txt"
+    "url": "/greenpoint/static/js/2.3754711c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d728738d86dda9c3377b",
-    "url": "/greenpoint/static/js/main.fed8716e.chunk.js"
+    "revision": "54a03bd954866a8c1f9b",
+    "url": "/greenpoint/static/js/main.feebb789.chunk.js"
   },
   {
     "revision": "821bdc4461154f017ce9",
@@ -32,10 +36,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/greenpoint/static/media/about_part_img.cc3f3114.webp"
   },
   {
-    "revision": "791fe9f996018445e7ca6b89f4e71e3f",
-    "url": "/greenpoint/static/media/arrow-down.791fe9f9.svg"
-  },
-  {
     "revision": "ee48d685eab75a0257038acdb3198a80",
     "url": "/greenpoint/static/media/arrow-right-icon.ee48d685.svg"
   },
@@ -48,22 +48,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/greenpoint/static/media/banner_img.73ee390c.webp"
   },
   {
-    "revision": "efe1b8bd12fe08b32b97f184bd5a7250",
-    "url": "/greenpoint/static/media/blog_1.efe1b8bd.webp"
-  },
-  {
-    "revision": "e2f0e860efebac93e9f17e5622c3472a",
-    "url": "/greenpoint/static/media/blog_2.e2f0e860.webp"
-  },
-  {
-    "revision": "afbf628f8d0fb07c87e0d493888053b8",
-    "url": "/greenpoint/static/media/blog_3.afbf628f.webp"
-  },
-  {
-    "revision": "9ef1c9e7f734dbf598146106703376cc",
-    "url": "/greenpoint/static/media/comment-icon.9ef1c9e7.svg"
-  },
-  {
     "revision": "bf5aea60fcf379e522385b4126a887c1",
     "url": "/greenpoint/static/media/experiance_img.bf5aea60.webp"
   },
@@ -72,12 +56,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/greenpoint/static/media/experiance_overlay.80130e19.webp"
   },
   {
-    "revision": "e28e711ceb8f262068cd1c299e440d13",
-    "url": "/greenpoint/static/media/heading_bg.e28e711c.webp"
+    "revision": "91521127f93cecf5bd74e84fab87113d",
+    "url": "/greenpoint/static/media/facebook-login.91521127.svg"
   },
   {
-    "revision": "4d3ed582723a640422ea2d8391214c59",
-    "url": "/greenpoint/static/media/heart-icon.4d3ed582.svg"
+    "revision": "e28e711ceb8f262068cd1c299e440d13",
+    "url": "/greenpoint/static/media/heading_bg.e28e711c.webp"
   },
   {
     "revision": "c080238eeab3474d7eb39511dd3018af",
@@ -100,6 +84,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/greenpoint/static/media/icon.47a6b90d.svg"
   },
   {
+    "revision": "3615323f30d254b8cea14c501b3dae68",
+    "url": "/greenpoint/static/media/instagram.3615323f.svg"
+  },
+  {
     "revision": "0f5dd612ad65a1162633e6423a13965e",
     "url": "/greenpoint/static/media/menu-close.0f5dd612.svg"
   },
@@ -118,5 +106,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "52ca210b4fd8d9c2bbbf124bca113da7",
     "url": "/greenpoint/static/media/project_3.52ca210b.webp"
+  },
+  {
+    "revision": "dc9c206ef1ae6335f09dc8d5611bcfaa",
+    "url": "/greenpoint/static/media/twitter.dc9c206e.svg"
   }
 ]);
