@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/greenpoint/static/css/main.c22ddd90.chunk.css",
-    "main.js": "/greenpoint/static/js/main.feebb789.chunk.js",
-    "main.js.map": "/greenpoint/static/js/main.feebb789.chunk.js.map",
+    "main.css": "/greenpoint/static/css/main.5621ea98.chunk.css",
+    "main.js": "/greenpoint/static/js/main.aeb737f7.chunk.js",
+    "main.js.map": "/greenpoint/static/js/main.aeb737f7.chunk.js.map",
     "runtime-main.js": "/greenpoint/static/js/runtime-main.fa7bbcc5.js",
     "runtime-main.js.map": "/greenpoint/static/js/runtime-main.fa7bbcc5.js.map",
     "static/css/2.2ce0d9b2.chunk.css": "/greenpoint/static/css/2.2ce0d9b2.chunk.css",
-    "static/js/2.3754711c.chunk.js": "/greenpoint/static/js/2.3754711c.chunk.js",
-    "static/js/2.3754711c.chunk.js.map": "/greenpoint/static/js/2.3754711c.chunk.js.map",
+    "static/js/2.0f6a85cd.chunk.js": "/greenpoint/static/js/2.0f6a85cd.chunk.js",
+    "static/js/2.0f6a85cd.chunk.js.map": "/greenpoint/static/js/2.0f6a85cd.chunk.js.map",
     "index.html": "/greenpoint/index.html",
-    "precache-manifest.b24207617c4efde2722de81cb7313f68.js": "/greenpoint/precache-manifest.b24207617c4efde2722de81cb7313f68.js",
+    "precache-manifest.d7254d733f0bf6f37237932fc0ffd243.js": "/greenpoint/precache-manifest.d7254d733f0bf6f37237932fc0ffd243.js",
     "service-worker.js": "/greenpoint/service-worker.js",
     "static/css/2.2ce0d9b2.chunk.css.map": "/greenpoint/static/css/2.2ce0d9b2.chunk.css.map",
-    "static/css/main.c22ddd90.chunk.css.map": "/greenpoint/static/css/main.c22ddd90.chunk.css.map",
-    "static/js/2.3754711c.chunk.js.LICENSE.txt": "/greenpoint/static/js/2.3754711c.chunk.js.LICENSE.txt",
+    "static/css/main.5621ea98.chunk.css.map": "/greenpoint/static/css/main.5621ea98.chunk.css.map",
+    "static/js/2.0f6a85cd.chunk.js.LICENSE.txt": "/greenpoint/static/js/2.0f6a85cd.chunk.js.LICENSE.txt",
     "static/media/About.css": "/greenpoint/static/media/about_overlay.b630937a.webp",
     "static/media/about_part_img.webp": "/greenpoint/static/media/about_part_img.cc3f3114.webp",
+    "static/media/arrow-left-dark.svg": "/greenpoint/static/media/arrow-left-dark.13ecddc4.svg",
+    "static/media/arrow-right-dark.svg": "/greenpoint/static/media/arrow-right-dark.f7ed12ba.svg",
     "static/media/arrow-right-icon.svg": "/greenpoint/static/media/arrow-right-icon.ee48d685.svg",
     "static/media/avatar.jpg": "/greenpoint/static/media/avatar.92d5c792.jpg",
     "static/media/AppBanner.css": "/greenpoint/static/media/banner_img.73ee390c.webp",
@@ -39,8 +41,8 @@
   "entrypoints": [
     "static/js/runtime-main.fa7bbcc5.js",
     "static/css/2.2ce0d9b2.chunk.css",
-    "static/js/2.3754711c.chunk.js",
-    "static/css/main.c22ddd90.chunk.css",
-    "static/js/main.feebb789.chunk.js"
+    "static/js/2.0f6a85cd.chunk.js",
+    "static/css/main.5621ea98.chunk.css",
+    "static/js/main.aeb737f7.chunk.js"
   ]
 }

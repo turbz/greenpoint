@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "293bb48f1fbe882b3a7d7e9d3822e296",
+    "revision": "4f2f4cc3879c06a2db962a4e0954a3e2",
     "url": "/greenpoint/index.html"
   },
   {
-    "revision": "a24f9b62b008f9aef262",
+    "revision": "d95fb9f3cbdbfdbb2110",
     "url": "/greenpoint/static/css/2.2ce0d9b2.chunk.css"
   },
   {
-    "revision": "54a03bd954866a8c1f9b",
-    "url": "/greenpoint/static/css/main.c22ddd90.chunk.css"
+    "revision": "4af374cad418004ab5f3",
+    "url": "/greenpoint/static/css/main.5621ea98.chunk.css"
   },
   {
-    "revision": "a24f9b62b008f9aef262",
-    "url": "/greenpoint/static/js/2.3754711c.chunk.js"
+    "revision": "d95fb9f3cbdbfdbb2110",
+    "url": "/greenpoint/static/js/2.0f6a85cd.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/greenpoint/static/js/2.3754711c.chunk.js.LICENSE.txt"
+    "url": "/greenpoint/static/js/2.0f6a85cd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "54a03bd954866a8c1f9b",
-    "url": "/greenpoint/static/js/main.feebb789.chunk.js"
+    "revision": "4af374cad418004ab5f3",
+    "url": "/greenpoint/static/js/main.aeb737f7.chunk.js"
   },
   {
     "revision": "821bdc4461154f017ce9",
@@ -34,6 +34,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cc3f311455298b8c30d731f96b612dfe",
     "url": "/greenpoint/static/media/about_part_img.cc3f3114.webp"
+  },
+  {
+    "revision": "13ecddc4f86f416a04802d622e22896c",
+    "url": "/greenpoint/static/media/arrow-left-dark.13ecddc4.svg"
+  },
+  {
+    "revision": "f7ed12baf4af5d85b46ec353a178acdc",
+    "url": "/greenpoint/static/media/arrow-right-dark.f7ed12ba.svg"
   },
   {
     "revision": "ee48d685eab75a0257038acdb3198a80",
